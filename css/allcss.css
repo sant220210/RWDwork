@@ -12,10 +12,10 @@ img{
 body{
     font-family: "微軟正黑體",sans-serif;
     background-color: #EDE8E5; 
-    color:#3D1101
+    color:#3D1101;
   }
   body a{
-    color:#3D1101
+    color:#3D1101;
   }
 
 .container{
@@ -51,8 +51,6 @@ body{
     margin-top: 10px;
  
 }
-
-
 
 
 .nav-logo:hover{
